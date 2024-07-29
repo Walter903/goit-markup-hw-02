@@ -14,13 +14,14 @@ a {
 }
 
 .logo-header-logo {
-    font-family: Raleway;
+    font-family: "Raleway", sans-serif
     font-size: 18px;
     font-weight: 700;
-    line-height: 21px;
+    line-height: 1.17;
     letter-spacing: 0.03em;
     text-align: left;
     color: #4D5AE5;
+    text-transform: uppercase
 }
 
 .header-logo,
@@ -68,12 +69,21 @@ a {
     font-weight: 700;
     line-height: 60px;
     letter-spacing: 0.02em;
+    line-height: 1.07
+    text-align: center
 }
 
 .btn-order {
     background: #4D5AE5;
     color: #FFFFFF;
-    ;
+    font-weight: 500;
+    line-height: 1.5;
+    letter-spacing: 0.04em; 
+    cursor: pointer
+}
+.btn-order:hover,
+.btn-order:focus {
+    background-color: #404BBF
 }
 
 .strategy,
@@ -98,15 +108,20 @@ a {
     letter-spacing: 0.02em;
     text-align: left;
     color: #434455;
-    ;
+}
+.section-team {
+    background-color: #F4F4FD;
 }
 .our-team {
 font-size: 36px;
 font-weight: 700;
-line-height: 40px;
+line-height: 1.11;
 letter-spacing: 0.02em;
 color: #2E2F42;
+text-align: center;
+text-transform: capitalize;
 }
+
 .name {
 font-size: 20px;
 font-weight: 500;
@@ -114,47 +129,48 @@ line-height: 24px;
 letter-spacing: 0.02em;
 color: #2E2F42;
 }
-.profession {
-    font-size: 16px;
-    font-weight: 400;
-    line-height: 24px;
-    letter-spacing: 0.02em;
-    background: #434455; 
-}
+
+
 .portfolio {
 font-size: 36px;
-font-weight: 700;
-line-height: 40px;
 letter-spacing: 0.02em;
-background: #2E2F42;
+line-height: 1.11;
+text-align: center;
+text-transform: capitalize;
+columns: #2e2f42;
+font-weight: 700;
 }
 .name-potfolio {
 font-size: 20px;
 font-weight: 500;
-line-height: 24px;
+line-height: 1.2;
 letter-spacing: 0.02em;
 text-align: left;
-background: #2E2F42;
-}
-.text-portfolio {
-font-size: 16px;
-font-weight: 400;
-line-height: 24px;
-letter-spacing: 0.02em;
-text-align: left;
-background: #434455;
+color: #2E2F42;
 
 }
+
 
 .page-footer {
     background: #2E2F42;
 }
+.logo-footer-logo {
+    font-family: "Raleway", sans-serif;
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 1.17;
+    letter-spacing: 0.03em;
+    text-transform: uppercase;
+    color: #4d5ae5;
+}
 
 .logo-part-footer {
     color: #F4F4FD;
+   
 }
 
 .footer-text {
     color: #F4F4FD;
-
+    line-height: 1.5;
+    letter-spacing: 0.02em;
 }
