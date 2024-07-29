@@ -100,6 +100,51 @@ a {
     color: #434455;
     ;
 }
+.our-team {
+font-size: 36px;
+font-weight: 700;
+line-height: 40px;
+letter-spacing: 0.02em;
+color: #2E2F42;
+}
+.name {
+font-size: 20px;
+font-weight: 500;
+line-height: 24px;
+letter-spacing: 0.02em;
+color: #2E2F42;
+}
+.profession {
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 24px;
+    letter-spacing: 0.02em;
+    background: #434455; 
+}
+.portfolio {
+font-size: 36px;
+font-weight: 700;
+line-height: 40px;
+letter-spacing: 0.02em;
+background: #2E2F42;
+}
+.name-potfolio {
+font-size: 20px;
+font-weight: 500;
+line-height: 24px;
+letter-spacing: 0.02em;
+text-align: left;
+background: #2E2F42;
+}
+.text-portfolio {
+font-size: 16px;
+font-weight: 400;
+line-height: 24px;
+letter-spacing: 0.02em;
+text-align: left;
+background: #434455;
+
+}
 
 .page-footer {
     background: #2E2F42;
