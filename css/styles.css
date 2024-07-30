@@ -85,7 +85,7 @@ a {
   background-color: #404bbf;
 }
 
-.strategy {
+.our-skills {
   font-size: 20px;
   font-weight: 500;
   line-height: 1.2;
@@ -94,33 +94,9 @@ a {
   color: #2e2f42;
 }
 
-.punctuality {
-  font-size: 20px;
-  font-weight: 500;
-  line-height: 1.2;
-  letter-spacing: 0.02em;
-  text-align: left;
-  color: #2e2f42;
-}
 
-.diligence {
-  font-size: 20px;
-  font-weight: 500;
-  line-height: 1.2;
-  letter-spacing: 0.02em;
-  text-align: left;
-  color: #2e2f42;
-}
-.technologies {
-  font-size: 20px;
-  font-weight: 500;
-  line-height: 1.2;
-  letter-spacing: 0.02em;
-  text-align: left;
-  color: #2e2f42;
-}
 
-.text-strategy {
+.text-our-skills {
     font-size: 16px;
     font-weight: 400;
     line-height: 1.5;
@@ -129,32 +105,7 @@ a {
     color: #434455;
   }
 
-.text-punctuality {
-    font-size: 16px;
-    font-weight: 400;
-    line-height: 1.5;
-    letter-spacing: 0.02em;
-    text-align: left;
-    color: #434455;
-  }
 
-.text-diligence {
-    font-size: 16px;
-    font-weight: 400;
-    line-height: 1.5;
-    letter-spacing: 0.02em;
-    text-align: left;
-    color: #434455;
-  }
-
-.text-technologies {
-  font-size: 16px;
-  font-weight: 400;
-  line-height: 1.5;
-  letter-spacing: 0.02em;
-  text-align: left;
-  color: #434455;
-}
 .section-team {
     background-color: #F4F4FD
 }
